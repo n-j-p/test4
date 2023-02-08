@@ -3,3 +3,5 @@ def hello_world():
 from sklearn.base import BaseEstimator
 class ExTransformer(BaseEstimator):
     pass
+def f():
+    return 99
