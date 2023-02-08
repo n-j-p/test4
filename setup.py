@@ -8,4 +8,5 @@ setup(
     author='n-j-p',
 
     py_modules=['my_pip_package'],
+    install_packages=['scikit-learn']
 )
